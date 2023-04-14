@@ -1,0 +1,47 @@
+
+46b359fc3ebf4412917b915415d59e05
+uri: 
+https://api.sketchfab.com/v3/models/46b359fc3ebf4412917b915415d59e05
+uid: 
+46b359fc3ebf4412917b915415d59e05
+name: 
+Pajaro4
+staffpickedAt: 
+viewCount: 
+9
+likeCount: 
+0
+animationCount: 
+0
+viewerUrl: 
+https://sketchfab.com/3d-models/46b359fc3ebf4412917b915415d59e05
+embedUrl: 
+https://sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/embed
+commentCount: 
+0
+isDownloadable: 
+True
+publishedAt: 
+2021-04-21T02:35:38.259693
+tags: 
+[]
+categories: 
+[]
+thumbnails: 
+{'images': [{'uid': 'd3ee40c57fe34309b3497bd3f362893c', 'size': 39493, 'width': 1920, 'url': 'https://media.sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/thumbnails/8913231135df43a5a5495c36a384f0ec/29e427c17c2f4b8f843dc5aa3b05a0eb.jpeg', 'height': 1080}, {'uid': '66d3081d200642d0a6e2797ccc327c0c', 'size': 13282, 'width': 1024, 'url': 'https://media.sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/thumbnails/8913231135df43a5a5495c36a384f0ec/65adfdc18e1e4e3eabf0b3aa784f89b0.jpeg', 'height': 576}, {'uid': 'dbf1e8c6c25a49ecba0c3407d6d9f2d5', 'size': 7788, 'width': 720, 'url': 'https://media.sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/thumbnails/8913231135df43a5a5495c36a384f0ec/ac18a887686c4b199b0c9b7e15e30950.jpeg', 'height': 405}, {'uid': 'ab727e3f59734085930d7ac72c1427b1', 'size': 1760, 'width': 256, 'url': 'https://media.sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/thumbnails/8913231135df43a5a5495c36a384f0ec/3398509c7023453a9c01e2601d40fd60.jpeg', 'height': 144}, {'uid': '3b5d215b87a54bd0868a34b8e0df44fc', 'size': 535, 'width': 64, 'url': 'https://media.sketchfab.com/models/46b359fc3ebf4412917b915415d59e05/thumbnails/8913231135df43a5a5495c36a384f0ec/e362d876741e4eaba0e952ac3d84ad47.jpeg', 'height': 36}]}
+user: 
+{'uid': 'a24b36f0b78c451981543c78f4a80754', 'username': 'marioc5198', 'displayName': 'marioc5198', 'profileUrl': 'https://sketchfab.com/marioc5198', 'account': 'basic', 'avatar': {'uri': 'https://api.sketchfab.com/v3/avatars/f51e9bdb2add44cca01e4fd6590f8020', 'images': [{'size': 868, 'width': 32, 'url': 'https://media.sketchfab.com/avatars/f51e9bdb2add44cca01e4fd6590f8020/30ff76476e1a4a09977a7fb3995266d6.jpeg', 'height': 32}, {'size': 1439, 'width': 48, 'url': 'https://media.sketchfab.com/avatars/f51e9bdb2add44cca01e4fd6590f8020/baecf26fc42045ec999d61b92519c822.jpeg', 'height': 48}, {'size': 3873, 'width': 90, 'url': 'https://media.sketchfab.com/avatars/f51e9bdb2add44cca01e4fd6590f8020/721d71d006be4b2b8abd8fa6a40ac3d6.jpeg', 'height': 90}, {'size': 4570, 'width': 100, 'url': 'https://media.sketchfab.com/avatars/f51e9bdb2add44cca01e4fd6590f8020/e52d053e1b294482b86692e046d53787.jpeg', 'height': 100}]}, 'uri': 'https://api.sketchfab.com/v3/users/a24b36f0b78c451981543c78f4a80754'}
+description: 
+
+faceCount: 
+113536
+createdAt: 
+2021-04-21T02:35:01.349919
+vertexCount: 
+56901
+isAgeRestricted: 
+False
+archives: 
+{'glb': {'textureCount': 1, 'size': 4286252, 'type': 'glb', 'textureMaxResolution': 2048, 'faceCount': 113536, 'vertexCount': 57681}, 'gltf': {'textureCount': 1, 'size': 3030436, 'type': 'gltf', 'textureMaxResolution': 2048, 'faceCount': 113536, 'vertexCount': 57681}, 'source': {'textureCount': None, 'size': 4115012, 'type': 'source', 'textureMaxResolution': None, 'faceCount': None, 'vertexCount': None}, 'usdz': {'textureCount': None, 'size': 3064082, 'type': 'usdz', 'textureMaxResolution': None, 'faceCount': None, 'vertexCount': None}}
+license: 
+by

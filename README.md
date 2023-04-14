@@ -40,4 +40,4 @@ The selection is not randomized.
 ##### Example 
 Here is an example of a bird 3D model downloaded (rendered in blender). 
 
-![left view](img/bird_left.png)
+<img src="img/bird_left.png" width="40"/>

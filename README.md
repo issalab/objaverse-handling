@@ -38,8 +38,8 @@ In this version, the code takes objects iteratively, one after the other in the 
 The selection is not randomized.
 
 ##### Example 
-Here is an example of a bird 3D model downloaded (rendered in blender, left, front and right view). 
-
+Here is an example of a bird 3D model downloaded (rendered in blender, left, front and right view).  
+uid: '46b359fc3ebf4412917b915415d59e05.glb'
 <img src="img/bird_left.png" width="80"/>
 <img src="img/bird front.png" width="80"/>
 <img src="img/bird right.png" width="80"/>

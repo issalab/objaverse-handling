@@ -36,3 +36,8 @@ One has to specify:
 ##### Note
 In this version, the code takes objects iteratively, one after the other in the order they appear in the LVIS annotations dictionary. 
 The selection is not randomized.
+
+##### Example 
+Here is an example of a bird 3D model downloaded (rendered in blender). 
+
+![left view](img/bird_left.png)

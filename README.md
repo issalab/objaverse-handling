@@ -37,6 +37,12 @@ One has to specify:
 In this version, the code takes objects iteratively, one after the other in the order they appear in the LVIS annotations dictionary. 
 The selection is not randomized.
 
+##### Result_files 
+
+- categories_downloaded.csv: the list of objects downloaded, with the corresponding number of objects obtained for each category. 
+
+- metadata_uid.txt: the metadata associated with one object downloaded. 
+
 ##### Example 
 Here is an example of a bird 3D model downloaded (rendered in blender, left, front and right view).  
 

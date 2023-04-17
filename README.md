@@ -7,6 +7,7 @@ Code for creating a dataset with 3D models from [Objaverse](https://arxiv.org/ab
 To download the models, we use the categories they belong to according to their [LVIS annotations](https://huggingface.co/datasets/allenai/objaverse/blob/main/lvis-annotations.json.gz).
 There are a total of 1156 categories according to the LVIS annotations. 
 We downloaded 10 objects from 200 distinct categories, for a total of 2000 3D models.
+Each object has a unique identifier, named an UID.
 
 ## Usage 
 1. Git fork the repo

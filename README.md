@@ -41,7 +41,7 @@ The selection is not randomized.
 
 - categories_downloaded.csv: the list of objects downloaded, with the corresponding number of objects obtained for each category. 
 
-- metadata_46b359fc3ebf4412917b915415d59e05.txt: the metadata associated with one object downloaded. 
+- metadata_46b359fc3ebf4412917b915415d59e05.txt: the metadata associated with one object downloaded (see below). 
 
 ##### Example 
 Here is an example of a bird 3D model downloaded (rendered in blender, left, front and right view).  
